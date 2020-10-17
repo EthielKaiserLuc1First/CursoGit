@@ -13,6 +13,8 @@
         $pegaso->arrancar();
         $pegaso->establece_color("rojo","XVLSR34");
         $pegaso->ruido_carro("brummmm runn");
+        
+        echo "codigo agregado desde github";
         ?>
     </body>
 </html>
