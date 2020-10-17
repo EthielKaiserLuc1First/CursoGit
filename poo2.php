@@ -26,7 +26,7 @@
             }
 
             function ruido_carro($sonido){
-                echo $sonido " prueba git 1"
+                echo $sonido  . " prueba git 1";
             }
 
         }
