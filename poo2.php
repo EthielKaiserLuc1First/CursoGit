@@ -25,6 +25,9 @@
                 echo "el color de "  . $nombre_coche .  " es : " . $this->color . "<br>";
             }
 
+            function ruido_carro($sonido){
+                echo $sonido " prueba git 1"
+            }
 
         }
         
